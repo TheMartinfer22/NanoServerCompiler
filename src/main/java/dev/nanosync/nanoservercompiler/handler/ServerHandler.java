@@ -1,4 +1,4 @@
-package dev.nanosync.nanoserver.handler;
+package dev.nanosync.nanoservercompiler.handler;
 
 import java.io.*;
 import java.net.URL;
@@ -10,6 +10,7 @@ public class ServerHandler {
     public ServerHandler(String serverType) throws IOException {
         URL url;
         switch (serverType){
+            // Todo user can switch for server jar
             case "Arclight":
                 url = new URL("https://github.com/IzzelAliz/Arclight/releases/download/1.16%2F1.0.21/arclight-forge-1.16.5-1.0.21.jar");
                 break;

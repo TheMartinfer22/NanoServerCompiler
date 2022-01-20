@@ -1,13 +1,13 @@
-package dev.nanosync.nanoserver;
+package dev.nanosync.nanoservercompiler;
 
-import dev.nanosync.nanoserver.file.PropertiesManager;
-import dev.nanosync.nanoserver.handler.ServerHandler;
-import dev.nanosync.nanoserver.plugin.PluginManager;
+import dev.nanosync.nanoservercompiler.file.PropertiesManager;
+import dev.nanosync.nanoservercompiler.handler.ServerHandler;
+import dev.nanosync.nanoservercompiler.plugin.PluginManager;
 
 import java.io.*;
 import java.util.Scanner;
 
-public class NanoServer {
+public class NanoServerCompiler {
 
     private static String folderProject;
     private static String mavenCompileCommand;

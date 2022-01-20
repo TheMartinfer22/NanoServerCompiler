@@ -1,6 +1,6 @@
-package dev.nanosync.nanoserver.plugin;
+package dev.nanosync.nanoservercompiler.plugin;
 
-import dev.nanosync.nanoserver.file.PropertiesManager;
+import dev.nanosync.nanoservercompiler.file.PropertiesManager;
 
 import java.io.File;
 import java.nio.file.Files;
