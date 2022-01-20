@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: dev.nanosync.nanoservercompiler.NanoServerCompiler
+Class-Path: dev.nanosync.nanoservercompiler
+
