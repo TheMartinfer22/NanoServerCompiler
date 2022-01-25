@@ -1,6 +1,6 @@
 package dev.nanosync.nanoservercompiler;
 
-import dev.nanosync.nanoservercompiler.file.PropertiesManager;
+import dev.nanosync.nanoservercompiler.external.PropertiesManager;
 import dev.nanosync.nanoservercompiler.handler.ServerHandler;
 import dev.nanosync.nanoservercompiler.plugin.PluginManager;
 
