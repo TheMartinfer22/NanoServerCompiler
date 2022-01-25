@@ -1,4 +1,4 @@
-package dev.nanosync.nanoservercompiler.file;
+package dev.nanosync.nanoservercompiler.external;
 
 import java.io.*;
 import java.util.Properties;
